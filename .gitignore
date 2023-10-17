@@ -1,2 +1,10 @@
+#Ignorar archivos o ficheros
 .vscode
+
+
+#Ignorar todo lo que empiece/acabe por un patrón
 Ignorable*
+
+
+#Ignorar todos los archivos de un tipo en particular
+*.json
